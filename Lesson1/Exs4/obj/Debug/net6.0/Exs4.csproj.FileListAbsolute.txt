@@ -1,0 +1,15 @@
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\bin\Debug\net6.0\Exs4.exe
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\bin\Debug\net6.0\Exs4.deps.json
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\bin\Debug\net6.0\Exs4.runtimeconfig.json
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\bin\Debug\net6.0\Exs4.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\bin\Debug\net6.0\Exs4.pdb
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\obj\Debug\net6.0\Exs4.csproj.AssemblyReference.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\obj\Debug\net6.0\Exs4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\obj\Debug\net6.0\Exs4.AssemblyInfoInputs.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\obj\Debug\net6.0\Exs4.AssemblyInfo.cs
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\obj\Debug\net6.0\Exs4.csproj.CoreCompileInputs.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\obj\Debug\net6.0\Exs4.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\obj\Debug\net6.0\refint\Exs4.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\obj\Debug\net6.0\Exs4.pdb
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\obj\Debug\net6.0\Exs4.genruntimeconfig.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs4\obj\Debug\net6.0\ref\Exs4.dll

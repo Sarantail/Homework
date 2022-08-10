@@ -1,0 +1,15 @@
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\obj\Debug\net6.0\Exs8.csproj.AssemblyReference.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\obj\Debug\net6.0\Exs8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\obj\Debug\net6.0\Exs8.AssemblyInfoInputs.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\obj\Debug\net6.0\Exs8.AssemblyInfo.cs
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\obj\Debug\net6.0\Exs8.csproj.CoreCompileInputs.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\bin\Debug\net6.0\Exs8.exe
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\bin\Debug\net6.0\Exs8.deps.json
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\bin\Debug\net6.0\Exs8.runtimeconfig.json
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\bin\Debug\net6.0\Exs8.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\bin\Debug\net6.0\Exs8.pdb
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\obj\Debug\net6.0\Exs8.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\obj\Debug\net6.0\refint\Exs8.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\obj\Debug\net6.0\Exs8.pdb
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\obj\Debug\net6.0\Exs8.genruntimeconfig.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson1\Exs8\obj\Debug\net6.0\ref\Exs8.dll
