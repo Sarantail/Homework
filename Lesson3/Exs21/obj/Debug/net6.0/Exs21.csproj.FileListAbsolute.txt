@@ -1,0 +1,15 @@
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\bin\Debug\net6.0\Exs21.exe
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\bin\Debug\net6.0\Exs21.deps.json
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\bin\Debug\net6.0\Exs21.runtimeconfig.json
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\bin\Debug\net6.0\Exs21.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\bin\Debug\net6.0\Exs21.pdb
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\obj\Debug\net6.0\Exs21.csproj.AssemblyReference.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\obj\Debug\net6.0\Exs21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\obj\Debug\net6.0\Exs21.AssemblyInfoInputs.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\obj\Debug\net6.0\Exs21.AssemblyInfo.cs
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\obj\Debug\net6.0\Exs21.csproj.CoreCompileInputs.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\obj\Debug\net6.0\Exs21.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\obj\Debug\net6.0\refint\Exs21.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\obj\Debug\net6.0\Exs21.pdb
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\obj\Debug\net6.0\Exs21.genruntimeconfig.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs21\obj\Debug\net6.0\ref\Exs21.dll

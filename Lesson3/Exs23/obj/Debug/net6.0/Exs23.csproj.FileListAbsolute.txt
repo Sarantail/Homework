@@ -1,0 +1,15 @@
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\obj\Debug\net6.0\Exs23.csproj.AssemblyReference.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\obj\Debug\net6.0\Exs23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\obj\Debug\net6.0\Exs23.AssemblyInfoInputs.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\obj\Debug\net6.0\Exs23.AssemblyInfo.cs
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\obj\Debug\net6.0\Exs23.csproj.CoreCompileInputs.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\bin\Debug\net6.0\Exs23.exe
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\bin\Debug\net6.0\Exs23.deps.json
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\bin\Debug\net6.0\Exs23.runtimeconfig.json
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\bin\Debug\net6.0\Exs23.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\bin\Debug\net6.0\Exs23.pdb
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\obj\Debug\net6.0\Exs23.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\obj\Debug\net6.0\refint\Exs23.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\obj\Debug\net6.0\Exs23.pdb
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\obj\Debug\net6.0\Exs23.genruntimeconfig.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs23\obj\Debug\net6.0\ref\Exs23.dll
