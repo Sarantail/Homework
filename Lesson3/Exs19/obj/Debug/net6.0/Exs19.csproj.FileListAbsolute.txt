@@ -1,0 +1,15 @@
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\bin\Debug\net6.0\Exs19.exe
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\bin\Debug\net6.0\Exs19.deps.json
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\bin\Debug\net6.0\Exs19.runtimeconfig.json
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\bin\Debug\net6.0\Exs19.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\bin\Debug\net6.0\Exs19.pdb
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\obj\Debug\net6.0\Exs19.csproj.AssemblyReference.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\obj\Debug\net6.0\Exs19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\obj\Debug\net6.0\Exs19.AssemblyInfoInputs.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\obj\Debug\net6.0\Exs19.AssemblyInfo.cs
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\obj\Debug\net6.0\Exs19.csproj.CoreCompileInputs.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\obj\Debug\net6.0\Exs19.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\obj\Debug\net6.0\refint\Exs19.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\obj\Debug\net6.0\Exs19.pdb
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\obj\Debug\net6.0\Exs19.genruntimeconfig.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson3\Exs19\obj\Debug\net6.0\ref\Exs19.dll
