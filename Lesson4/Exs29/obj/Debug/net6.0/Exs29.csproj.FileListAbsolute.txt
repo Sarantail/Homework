@@ -1,0 +1,15 @@
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\obj\Debug\net6.0\Exs29.csproj.AssemblyReference.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\obj\Debug\net6.0\Exs29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\obj\Debug\net6.0\Exs29.AssemblyInfoInputs.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\obj\Debug\net6.0\Exs29.AssemblyInfo.cs
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\obj\Debug\net6.0\Exs29.csproj.CoreCompileInputs.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\bin\Debug\net6.0\Exs29.exe
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\bin\Debug\net6.0\Exs29.deps.json
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\bin\Debug\net6.0\Exs29.runtimeconfig.json
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\bin\Debug\net6.0\Exs29.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\bin\Debug\net6.0\Exs29.pdb
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\obj\Debug\net6.0\Exs29.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\obj\Debug\net6.0\refint\Exs29.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\obj\Debug\net6.0\Exs29.pdb
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\obj\Debug\net6.0\Exs29.genruntimeconfig.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs29\obj\Debug\net6.0\ref\Exs29.dll

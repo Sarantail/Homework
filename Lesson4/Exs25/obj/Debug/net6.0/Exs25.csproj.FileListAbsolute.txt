@@ -1,0 +1,15 @@
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\obj\Debug\net6.0\Exs25.csproj.AssemblyReference.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\obj\Debug\net6.0\Exs25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\obj\Debug\net6.0\Exs25.AssemblyInfoInputs.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\obj\Debug\net6.0\Exs25.AssemblyInfo.cs
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\obj\Debug\net6.0\Exs25.csproj.CoreCompileInputs.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\bin\Debug\net6.0\Exs25.exe
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\bin\Debug\net6.0\Exs25.deps.json
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\bin\Debug\net6.0\Exs25.runtimeconfig.json
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\bin\Debug\net6.0\Exs25.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\bin\Debug\net6.0\Exs25.pdb
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\obj\Debug\net6.0\Exs25.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\obj\Debug\net6.0\refint\Exs25.dll
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\obj\Debug\net6.0\Exs25.pdb
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\obj\Debug\net6.0\Exs25.genruntimeconfig.cache
+C:\Users\Sarantail\Desktop\Homework\Lesson4\Exs25\obj\Debug\net6.0\ref\Exs25.dll
